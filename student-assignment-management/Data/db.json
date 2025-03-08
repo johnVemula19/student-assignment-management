@@ -1,0 +1,68 @@
+{
+  "assignments": [
+    {
+      "id": "1",
+      "title": "Math Homework",
+      "dueDate": "2023-11-15",
+      "description": "Complete exercises 1 to 10 on page 45.",
+      "instructions": "Submit your solutions in PDF format.",
+      "status": "Pending"
+    },
+    {
+      "id": "2",
+      "title": "Science Project",
+      "dueDate": "2023-11-20",
+      "description": "Create a presentation on the solar system.",
+      "instructions": "Include at least 5 slides with images.",
+      "status": "Pending"
+    },
+    {
+      "id": "3",
+      "title": "History Essay",
+      "dueDate": "2023-11-25",
+      "description": "Write an essay on the Industrial Revolution.",
+      "instructions": "Minimum 1000 words, APA format.",
+      "status": "Pending"
+    },
+    {
+      "id": "4",
+      "title": "Programming Assignment",
+      "dueDate": "2023-11-30",
+      "description": "Build a React app with a responsive layout.",
+      "instructions": "Use Material-UI for styling.",
+      "status": "Pending"
+    },
+    {
+      "id": "5",
+      "title": "Physics Lab Report",
+      "dueDate": "2023-12-05",
+      "description": "Submit a report on the pendulum experiment.",
+      "instructions": "Include graphs and analysis.",
+      "status": "Pending"
+    },
+    {
+      "id": "6",
+      "title": "Literature Review",
+      "dueDate": "2023-12-10",
+      "description": "Review three articles on climate change.",
+      "instructions": "Summarize key findings and provide citations.",
+      "status": "Pending"
+    },
+    {
+      "id": "8628b8e7-d7d9-4bd5-8d68-b5f27474952f",
+      "title": "Submission by test",
+      "dueDate": "2025-03-08",
+      "description": "test",
+      "instructions": "Submitted via form",
+      "status": "Submitted"
+    },
+    {
+      "id": "c8528a6c-4ba2-464c-acb5-04450ee94d13",
+      "title": "Submission by test",
+      "dueDate": "2025-03-08",
+      "description": "asd",
+      "instructions": "Submitted via form",
+      "status": "Submitted"
+    }
+  ]
+}
